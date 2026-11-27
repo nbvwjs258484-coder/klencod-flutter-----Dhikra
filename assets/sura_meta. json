@@ -1,0 +1,689 @@
+{
+ "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+ "suras": [
+  {
+   "n": 1,
+   "name": "الفاتحة",
+   "ayas": 7,
+   "madani": false
+  },
+  {
+   "n": 2,
+   "name": "البقرة",
+   "ayas": 286,
+   "madani": true
+  },
+  {
+   "n": 3,
+   "name": "آل عمران",
+   "ayas": 200,
+   "madani": true
+  },
+  {
+   "n": 4,
+   "name": "النساء",
+   "ayas": 176,
+   "madani": true
+  },
+  {
+   "n": 5,
+   "name": "المائدة",
+   "ayas": 120,
+   "madani": true
+  },
+  {
+   "n": 6,
+   "name": "الأنعام",
+   "ayas": 165,
+   "madani": false
+  },
+  {
+   "n": 7,
+   "name": "الأعراف",
+   "ayas": 206,
+   "madani": false
+  },
+  {
+   "n": 8,
+   "name": "الأنفال",
+   "ayas": 75,
+   "madani": true
+  },
+  {
+   "n": 9,
+   "name": "التوبة",
+   "ayas": 129,
+   "madani": true
+  },
+  {
+   "n": 10,
+   "name": "يونس",
+   "ayas": 109,
+   "madani": false
+  },
+  {
+   "n": 11,
+   "name": "هود",
+   "ayas": 123,
+   "madani": false
+  },
+  {
+   "n": 12,
+   "name": "يوسف",
+   "ayas": 111,
+   "madani": false
+  },
+  {
+   "n": 13,
+   "name": "الرعد",
+   "ayas": 43,
+   "madani": true
+  },
+  {
+   "n": 14,
+   "name": "ابراهيم",
+   "ayas": 52,
+   "madani": false
+  },
+  {
+   "n": 15,
+   "name": "الحجر",
+   "ayas": 99,
+   "madani": false
+  },
+  {
+   "n": 16,
+   "name": "النحل",
+   "ayas": 128,
+   "madani": false
+  },
+  {
+   "n": 17,
+   "name": "الإسراء",
+   "ayas": 111,
+   "madani": false
+  },
+  {
+   "n": 18,
+   "name": "الكهف",
+   "ayas": 110,
+   "madani": false
+  },
+  {
+   "n": 19,
+   "name": "مريم",
+   "ayas": 98,
+   "madani": false
+  },
+  {
+   "n": 20,
+   "name": "طه",
+   "ayas": 135,
+   "madani": false
+  },
+  {
+   "n": 21,
+   "name": "الأنبياء",
+   "ayas": 112,
+   "madani": false
+  },
+  {
+   "n": 22,
+   "name": "الحج",
+   "ayas": 78,
+   "madani": true
+  },
+  {
+   "n": 23,
+   "name": "المؤمنون",
+   "ayas": 118,
+   "madani": false
+  },
+  {
+   "n": 24,
+   "name": "النور",
+   "ayas": 64,
+   "madani": true
+  },
+  {
+   "n": 25,
+   "name": "الفرقان",
+   "ayas": 77,
+   "madani": false
+  },
+  {
+   "n": 26,
+   "name": "الشعراء",
+   "ayas": 227,
+   "madani": false
+  },
+  {
+   "n": 27,
+   "name": "النمل",
+   "ayas": 93,
+   "madani": false
+  },
+  {
+   "n": 28,
+   "name": "القصص",
+   "ayas": 88,
+   "madani": false
+  },
+  {
+   "n": 29,
+   "name": "العنكبوت",
+   "ayas": 69,
+   "madani": false
+  },
+  {
+   "n": 30,
+   "name": "الروم",
+   "ayas": 60,
+   "madani": false
+  },
+  {
+   "n": 31,
+   "name": "لقمان",
+   "ayas": 34,
+   "madani": false
+  },
+  {
+   "n": 32,
+   "name": "السجدة",
+   "ayas": 30,
+   "madani": false
+  },
+  {
+   "n": 33,
+   "name": "الأحزاب",
+   "ayas": 73,
+   "madani": true
+  },
+  {
+   "n": 34,
+   "name": "سبإ",
+   "ayas": 54,
+   "madani": false
+  },
+  {
+   "n": 35,
+   "name": "فاطر",
+   "ayas": 45,
+   "madani": false
+  },
+  {
+   "n": 36,
+   "name": "يس",
+   "ayas": 83,
+   "madani": false
+  },
+  {
+   "n": 37,
+   "name": "الصافات",
+   "ayas": 182,
+   "madani": false
+  },
+  {
+   "n": 38,
+   "name": "ص",
+   "ayas": 88,
+   "madani": false
+  },
+  {
+   "n": 39,
+   "name": "الزمر",
+   "ayas": 75,
+   "madani": false
+  },
+  {
+   "n": 40,
+   "name": "غافر",
+   "ayas": 85,
+   "madani": false
+  },
+  {
+   "n": 41,
+   "name": "فصلت",
+   "ayas": 54,
+   "madani": false
+  },
+  {
+   "n": 42,
+   "name": "الشورى",
+   "ayas": 53,
+   "madani": false
+  },
+  {
+   "n": 43,
+   "name": "الزخرف",
+   "ayas": 89,
+   "madani": false
+  },
+  {
+   "n": 44,
+   "name": "الدخان",
+   "ayas": 59,
+   "madani": false
+  },
+  {
+   "n": 45,
+   "name": "الجاثية",
+   "ayas": 37,
+   "madani": false
+  },
+  {
+   "n": 46,
+   "name": "الأحقاف",
+   "ayas": 35,
+   "madani": false
+  },
+  {
+   "n": 47,
+   "name": "محمد",
+   "ayas": 38,
+   "madani": true
+  },
+  {
+   "n": 48,
+   "name": "الفتح",
+   "ayas": 29,
+   "madani": true
+  },
+  {
+   "n": 49,
+   "name": "الحجرات",
+   "ayas": 18,
+   "madani": true
+  },
+  {
+   "n": 50,
+   "name": "ق",
+   "ayas": 45,
+   "madani": false
+  },
+  {
+   "n": 51,
+   "name": "الذاريات",
+   "ayas": 60,
+   "madani": false
+  },
+  {
+   "n": 52,
+   "name": "الطور",
+   "ayas": 49,
+   "madani": false
+  },
+  {
+   "n": 53,
+   "name": "النجم",
+   "ayas": 62,
+   "madani": false
+  },
+  {
+   "n": 54,
+   "name": "القمر",
+   "ayas": 55,
+   "madani": false
+  },
+  {
+   "n": 55,
+   "name": "الرحمن",
+   "ayas": 78,
+   "madani": true
+  },
+  {
+   "n": 56,
+   "name": "الواقعة",
+   "ayas": 96,
+   "madani": false
+  },
+  {
+   "n": 57,
+   "name": "الحديد",
+   "ayas": 29,
+   "madani": true
+  },
+  {
+   "n": 58,
+   "name": "المجادلة",
+   "ayas": 22,
+   "madani": true
+  },
+  {
+   "n": 59,
+   "name": "الحشر",
+   "ayas": 24,
+   "madani": true
+  },
+  {
+   "n": 60,
+   "name": "الممتحنة",
+   "ayas": 13,
+   "madani": true
+  },
+  {
+   "n": 61,
+   "name": "الصف",
+   "ayas": 14,
+   "madani": true
+  },
+  {
+   "n": 62,
+   "name": "الجمعة",
+   "ayas": 11,
+   "madani": true
+  },
+  {
+   "n": 63,
+   "name": "المنافقون",
+   "ayas": 11,
+   "madani": true
+  },
+  {
+   "n": 64,
+   "name": "التغابن",
+   "ayas": 18,
+   "madani": true
+  },
+  {
+   "n": 65,
+   "name": "الطلاق",
+   "ayas": 12,
+   "madani": true
+  },
+  {
+   "n": 66,
+   "name": "التحريم",
+   "ayas": 12,
+   "madani": true
+  },
+  {
+   "n": 67,
+   "name": "الملك",
+   "ayas": 30,
+   "madani": false
+  },
+  {
+   "n": 68,
+   "name": "القلم",
+   "ayas": 52,
+   "madani": false
+  },
+  {
+   "n": 69,
+   "name": "الحاقة",
+   "ayas": 52,
+   "madani": false
+  },
+  {
+   "n": 70,
+   "name": "المعارج",
+   "ayas": 44,
+   "madani": false
+  },
+  {
+   "n": 71,
+   "name": "نوح",
+   "ayas": 28,
+   "madani": false
+  },
+  {
+   "n": 72,
+   "name": "الجن",
+   "ayas": 28,
+   "madani": false
+  },
+  {
+   "n": 73,
+   "name": "المزمل",
+   "ayas": 20,
+   "madani": false
+  },
+  {
+   "n": 74,
+   "name": "المدثر",
+   "ayas": 56,
+   "madani": false
+  },
+  {
+   "n": 75,
+   "name": "القيامة",
+   "ayas": 40,
+   "madani": false
+  },
+  {
+   "n": 76,
+   "name": "الانسان",
+   "ayas": 31,
+   "madani": true
+  },
+  {
+   "n": 77,
+   "name": "المرسلات",
+   "ayas": 50,
+   "madani": false
+  },
+  {
+   "n": 78,
+   "name": "النبإ",
+   "ayas": 40,
+   "madani": false
+  },
+  {
+   "n": 79,
+   "name": "النازعات",
+   "ayas": 46,
+   "madani": false
+  },
+  {
+   "n": 80,
+   "name": "عبس",
+   "ayas": 42,
+   "madani": false
+  },
+  {
+   "n": 81,
+   "name": "التكوير",
+   "ayas": 29,
+   "madani": false
+  },
+  {
+   "n": 82,
+   "name": "الإنفطار",
+   "ayas": 19,
+   "madani": false
+  },
+  {
+   "n": 83,
+   "name": "المطففين",
+   "ayas": 36,
+   "madani": false
+  },
+  {
+   "n": 84,
+   "name": "الإنشقاق",
+   "ayas": 25,
+   "madani": false
+  },
+  {
+   "n": 85,
+   "name": "البروج",
+   "ayas": 22,
+   "madani": false
+  },
+  {
+   "n": 86,
+   "name": "الطارق",
+   "ayas": 17,
+   "madani": false
+  },
+  {
+   "n": 87,
+   "name": "الأعلى",
+   "ayas": 19,
+   "madani": false
+  },
+  {
+   "n": 88,
+   "name": "الغاشية",
+   "ayas": 26,
+   "madani": false
+  },
+  {
+   "n": 89,
+   "name": "الفجر",
+   "ayas": 30,
+   "madani": false
+  },
+  {
+   "n": 90,
+   "name": "البلد",
+   "ayas": 20,
+   "madani": false
+  },
+  {
+   "n": 91,
+   "name": "الشمس",
+   "ayas": 15,
+   "madani": false
+  },
+  {
+   "n": 92,
+   "name": "الليل",
+   "ayas": 21,
+   "madani": false
+  },
+  {
+   "n": 93,
+   "name": "الضحى",
+   "ayas": 11,
+   "madani": false
+  },
+  {
+   "n": 94,
+   "name": "الشرح",
+   "ayas": 8,
+   "madani": false
+  },
+  {
+   "n": 95,
+   "name": "التين",
+   "ayas": 8,
+   "madani": false
+  },
+  {
+   "n": 96,
+   "name": "العلق",
+   "ayas": 19,
+   "madani": false
+  },
+  {
+   "n": 97,
+   "name": "القدر",
+   "ayas": 5,
+   "madani": false
+  },
+  {
+   "n": 98,
+   "name": "البينة",
+   "ayas": 8,
+   "madani": true
+  },
+  {
+   "n": 99,
+   "name": "الزلزلة",
+   "ayas": 8,
+   "madani": true
+  },
+  {
+   "n": 100,
+   "name": "العاديات",
+   "ayas": 11,
+   "madani": false
+  },
+  {
+   "n": 101,
+   "name": "القارعة",
+   "ayas": 11,
+   "madani": false
+  },
+  {
+   "n": 102,
+   "name": "التكاثر",
+   "ayas": 8,
+   "madani": false
+  },
+  {
+   "n": 103,
+   "name": "العصر",
+   "ayas": 3,
+   "madani": false
+  },
+  {
+   "n": 104,
+   "name": "الهمزة",
+   "ayas": 9,
+   "madani": false
+  },
+  {
+   "n": 105,
+   "name": "الفيل",
+   "ayas": 5,
+   "madani": false
+  },
+  {
+   "n": 106,
+   "name": "قريش",
+   "ayas": 4,
+   "madani": false
+  },
+  {
+   "n": 107,
+   "name": "الماعون",
+   "ayas": 7,
+   "madani": false
+  },
+  {
+   "n": 108,
+   "name": "الكوثر",
+   "ayas": 3,
+   "madani": false
+  },
+  {
+   "n": 109,
+   "name": "الكافرون",
+   "ayas": 6,
+   "madani": false
+  },
+  {
+   "n": 110,
+   "name": "النصر",
+   "ayas": 3,
+   "madani": true
+  },
+  {
+   "n": 111,
+   "name": "المسد",
+   "ayas": 5,
+   "madani": false
+  },
+  {
+   "n": 112,
+   "name": "الإخلاص",
+   "ayas": 4,
+   "madani": false
+  },
+  {
+   "n": 113,
+   "name": "الفلق",
+   "ayas": 5,
+   "madani": false
+  },
+  {
+   "n": 114,
+   "name": "الناس",
+   "ayas": 6,
+   "madani": false
+  }
+ ]
+}
